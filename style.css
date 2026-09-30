@@ -1,0 +1,57 @@
+ body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #F9E6A8;
+    font-family: 'Gagalin', sans-serif;
+    margin: 0;
+    padding-bottom: 20px;
+    
+}
+
+#quote {
+   
+    font-family: 'Lilita One', cursive;
+    text-align: center;
+    display: block;
+    margin:0 auto;
+    padding: 10px 20px;
+    font-size: 3em;
+    font-weight: bold;
+    color: #2C3947;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+#author {
+    
+     font-family: 'Sour Gummy', sans-serif;
+    text-align: center;
+   display: block;
+    margin:0 auto;
+    padding: 10px 20px;
+    font-size: 2em;
+   font-weight: bold;
+    color: #2C3947;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+#btn {
+      font-family: 'Sour Gummy', sans-serif;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 2em;
+    background-color: #FFF0BE;
+    color: #2C3947;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
